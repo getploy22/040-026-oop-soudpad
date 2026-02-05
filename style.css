@@ -1,0 +1,7 @@
+body { font-family: sans-serif; text-align: center; background-color: #e0f7fa; padding-top: 50px; }
+.card { background: white; padding: 40px; border-radius: 20px; display: inline-block; box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+select, button { font-size: 20px; padding: 12px; margin: 10px; border-radius: 8px; border: 1px solid #ccc; }
+button { background-color: #b87aff; color: white; border: none; cursor: pointer; font-weight: bold;}
+button:hover { background-color: #784ce0; }
+#output { font-size: 30px; margin-top: 20px; height: 50px; color: #ff92db; font-weight: bold; }
+#loading { color: gray; font-style: italic; font-size: 14px; }
